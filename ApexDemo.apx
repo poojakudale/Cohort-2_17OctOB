@@ -1,0 +1,4 @@
+class ApexDemo
+{
+	System.debug("First code for Apex Programming");
+}
