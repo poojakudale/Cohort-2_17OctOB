@@ -1,4 +1,11 @@
 class ApexDemo
 {
+	integer num1 = 10;
+	integer num2 = 20;
+	integer ans = num1 + num2;
+	
 	System.debug("First code for Apex Programming");
+	System.debug("Addition is : ",ans);
+
 }
+
